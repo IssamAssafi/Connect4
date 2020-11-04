@@ -18,6 +18,7 @@ https://cocos2d-x.org/cocos2dx
 ```
 
 ## Screenshots / Preview
+![4Connect Demo](demo/connect4.gif)
 
 ### **Game Features:**
 
